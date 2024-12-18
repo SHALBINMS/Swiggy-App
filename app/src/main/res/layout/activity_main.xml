@@ -85,48 +85,48 @@
                 <ImageView
                      android:layout_marginLeft="22dp"
                     android:layout_marginTop="20dp"
-                    android:background="#FC8019"
+                    android:background="@drawable/burger"
                     android:layout_width="100dp"
                     android:layout_height="100dp"/>
 
                 <ImageView
                     android:layout_marginLeft="39dp"
                     android:layout_marginTop="20dp"
-                    android:background="#FC8019"
+                    android:background="@drawable/choru"
                     android:layout_width="100dp"
                     android:layout_height="100dp"/>
                 <ImageView
                     android:layout_marginLeft="39dp"
                     android:layout_marginTop="20dp"
-                    android:background="#FC8019"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"/>
-
-                <ImageView
-                    android:layout_marginLeft="39dp"
-                    android:layout_marginTop="20dp"
-                    android:background="#FC8019"
+                    android:background="@drawable/dosa"
                     android:layout_width="100dp"
                     android:layout_height="100dp"/>
 
                 <ImageView
                     android:layout_marginLeft="39dp"
                     android:layout_marginTop="20dp"
-                    android:background="#FC8019"
+                    android:background="@drawable/chicken"
                     android:layout_width="100dp"
                     android:layout_height="100dp"/>
 
                 <ImageView
                     android:layout_marginLeft="39dp"
                     android:layout_marginTop="20dp"
-                    android:background="#FC8019"
+                    android:background="@drawable/burger"
                     android:layout_width="100dp"
                     android:layout_height="100dp"/>
 
                 <ImageView
                     android:layout_marginLeft="39dp"
                     android:layout_marginTop="20dp"
-                    android:background="#FC8019"
+                    android:background="@drawable/burger"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"/>
+
+                <ImageView
+                    android:layout_marginLeft="39dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/burger"
                     android:layout_width="100dp"
                     android:layout_height="100dp"/>
 
@@ -201,39 +201,39 @@
                      <ImageView
                          android:layout_gravity="center"
                          android:layout_marginTop="30dp"
-                         android:background="#FC8019"
+                         android:background="@drawable/food1"
                          android:layout_width="150dp"
                          android:layout_height="150dp"/>
 
                      <ImageView
                          android:layout_gravity="center"
                          android:layout_marginTop="30dp"
-                         android:background="#FC8019"
+                         android:background="@drawable/burger"
                          android:layout_width="150dp"
                          android:layout_height="150dp"/>
 
                      <ImageView
                          android:layout_gravity="center"
                          android:layout_marginTop="30dp"
-                         android:background="#FC8019"
+                         android:background="@drawable/food2"
                          android:layout_width="150dp"
                          android:layout_height="150dp"/>
                      <ImageView
                          android:layout_gravity="center"
                          android:layout_marginTop="30dp"
-                         android:background="#FC8019"
+                         android:background="@drawable/burger"
                          android:layout_width="150dp"
                          android:layout_height="150dp"/>
                      <ImageView
                          android:layout_gravity="center"
                          android:layout_marginTop="30dp"
-                         android:background="#FC8019"
+                         android:background="@drawable/pizza"
                          android:layout_width="150dp"
                          android:layout_height="150dp"/>
                      <ImageView
                          android:layout_gravity="center"
                          android:layout_marginTop="30dp"
-                         android:background="#FC8019"
+                         android:background="@drawable/burger"
                          android:layout_width="150dp"
                          android:layout_height="150dp"/>
 
