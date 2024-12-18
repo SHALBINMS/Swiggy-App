@@ -12,7 +12,7 @@
         android:layout_height="wrap_content">
 
         <ImageView
-            android:background="#FC8019"
+            android:background="@drawable/baseline_add_shopping_cart_25"
             android:layout_marginLeft="14dp"
             android:layout_width="50dp"
             android:layout_height="50dp"/>
@@ -112,21 +112,21 @@
                 <ImageView
                     android:layout_marginLeft="39dp"
                     android:layout_marginTop="20dp"
-                    android:background="@drawable/burger"
+                    android:background="@drawable/food1"
                     android:layout_width="100dp"
                     android:layout_height="100dp"/>
 
                 <ImageView
                     android:layout_marginLeft="39dp"
                     android:layout_marginTop="20dp"
-                    android:background="@drawable/burger"
+                    android:background="@drawable/icecream"
                     android:layout_width="100dp"
                     android:layout_height="100dp"/>
 
                 <ImageView
                     android:layout_marginLeft="39dp"
                     android:layout_marginTop="20dp"
-                    android:background="@drawable/burger"
+                    android:background="@drawable/chicken"
                     android:layout_width="100dp"
                     android:layout_height="100dp"/>
 
@@ -221,7 +221,7 @@
                      <ImageView
                          android:layout_gravity="center"
                          android:layout_marginTop="30dp"
-                         android:background="@drawable/burger"
+                         android:background="@drawable/salad"
                          android:layout_width="150dp"
                          android:layout_height="150dp"/>
                      <ImageView
@@ -233,7 +233,7 @@
                      <ImageView
                          android:layout_gravity="center"
                          android:layout_marginTop="30dp"
-                         android:background="@drawable/burger"
+                         android:background="@drawable/icecream"
                          android:layout_width="150dp"
                          android:layout_height="150dp"/>
 
